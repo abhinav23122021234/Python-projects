@@ -25,6 +25,9 @@ iv) The program will display both your choice and the computer's choice using AS
 
 ### Game Flow
 -The program prompts the user to enter their choice.
+
 -The computer randomly selects one of the available choices.
+
 -The program compares the choices and prints the winner, or declares a draw.
+
 -ASCII art is displayed for both the user's and the computer’s choices.
