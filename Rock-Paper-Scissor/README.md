@@ -15,9 +15,13 @@ iv) The program will display both your choice and the computer's choice using AS
 
 ### The winner is determined based on the standard rules:
 ->Rock (stone) beats Scissors.
+
 ->Scissors beats Paper.
+
 ->Paper beats Rock (stone).
+
 ->If both the user and the computer choose the same, it’s a draw.
+
 
 ### Game Flow
 -The program prompts the user to enter their choice.
