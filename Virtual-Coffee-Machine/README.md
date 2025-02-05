@@ -5,12 +5,19 @@ This is a Python-based **Coffee Machine Simulator** that mimics the functionalit
 
 ## Features
 ✅ Supports three drink options: **Latte, Espresso, and Cappuccino** ☕
+
 ✅ Maintains an ingredient inventory (water, milk, coffee)
+
 ✅ Handles transactions using a virtual money system
+
 ✅ Provides an option to check the machine’s report (ingredient levels & earnings)
+
 ✅ Allows the user to **turn off** the machine
+
 ✅ Checks for sufficient ingredients before preparing a drink
+
 ✅ Processes coin-based payments and gives change if applicable
+
 ✅ Refunds money if payment is insufficient
 
 ## Project Structure
