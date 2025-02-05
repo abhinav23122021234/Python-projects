@@ -39,12 +39,17 @@ The project consists of **four Python files**, each handling a separate aspect o
 
 ## How It Works
 1️⃣ The user selects a drink from the menu.
+
 2️⃣ The machine checks if enough ingredients are available.
+
 3️⃣ If sufficient, the user inserts coins for payment.
+
 4️⃣ The machine processes the payment:
    - If the payment is sufficient, the drink is prepared and served. ☕
    - If insufficient, the money is refunded.
+   - 
 5️⃣ The user can type **'report'** to view ingredient levels and total earnings.
+
 6️⃣ Typing **'off'** turns off the machine.
 
 ## Technologies Used
@@ -54,13 +59,18 @@ The project consists of **four Python files**, each handling a separate aspect o
 
 ## How to Run the Project
 1️⃣ Clone or download the repository.
+
 2️⃣ Ensure Python is installed on your system.
+
 3️⃣ Run `python main.py` in the terminal.
+
 4️⃣ Follow on-screen instructions to interact with the coffee machine.
 
 ## Future Enhancements
 🔹 Add more coffee options ☕
+
 🔹 Implement a GUI using Tkinter or PyQt 🎨
+
 🔹 Integrate an API for a real payment system 💳
 
 Enjoy your **virtual coffee experience!** 🚀
