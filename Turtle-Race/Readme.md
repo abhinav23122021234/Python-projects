@@ -4,7 +4,7 @@
 Turtle Race is a fun and interactive game built using Python's `turtle` module. Players can place bets on which turtle they think will win the race, and then watch as the turtles compete to reach the finish line first!
 
 ## 🎮 How to Play
-1. Run the script `turtle_race.py`.
+1. Run the script `main.py`.
 2. A prompt will appear asking you to bet on a turtle color (`red`, `blue`, `green`, `yellow`, `purple`, or `orange`).
 3. The race begins! The turtles will move forward at random speeds.
 4. Once a turtle crosses the finish line, the winner is announced.
