@@ -26,7 +26,7 @@ Turtle Race is a fun and interactive game built using Python's `turtle` module. 
 2. Clone or download this repository.
 3. Run the script using:
    ```sh
-   python turtle_race.py
+   python main.py
    ```
 4. Follow the on-screen instructions to place your bet and enjoy the race!
 
