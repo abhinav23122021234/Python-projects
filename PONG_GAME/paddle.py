@@ -13,7 +13,7 @@ class Paddle(Turtle):
         self.shape("square")
         self.speed("fastest")
         self.shapesize(stretch_len=1, stretch_wid=5)  # default size is 20,20.str_width=5 means 5 times original value
-        self.color("white")
+        self.color("green")
         self.penup()
         self.goto(self.x,self.y)
 
