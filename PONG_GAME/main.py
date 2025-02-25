@@ -1,4 +1,4 @@
-#TODO.1) Create screen with basic setup,title,background color,exitonclick
+ #TODO.1) Create screen with basic setup,title,background color,exitonclick
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
