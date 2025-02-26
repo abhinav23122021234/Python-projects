@@ -16,7 +16,7 @@ A classic **Pong Game** built using Python's `turtle` module! This project is a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abhinav23122021234/python-projects.git
+   git clone https://github.com/abhinav23122021234/Python-projects.git
    ```
 2. Navigate to the **PONG_GAME** folder:
    ```bash
